@@ -10,7 +10,7 @@
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=FWZJL&show_icons=true&line_height=45&theme=highcontrast&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FWZJL&layout=compact" />
   <br />
   <br />
   <br />
